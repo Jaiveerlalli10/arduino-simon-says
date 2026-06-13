@@ -59,6 +59,5 @@ The Arduino generates a random sequence of colors and sounds. The player must re
 This project was my first Arduino project after completing CSE 123 and EE 215 at the University of Washington. It helped me connect programming concepts with physical hardware by combining software logic, digital inputs, LEDs, and audio output into a complete interactive system.
 
 ## Demo
-
-Add gameplay photos and videos here.
+https://youtube.com/shorts/W8_AZmc7Fvo?feature=share 
 
