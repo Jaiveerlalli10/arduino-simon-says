@@ -4,8 +4,7 @@
 
 This project is a Simon Says memory game built using an Arduino Mega, four LEDs, four push buttons, and a passive buzzer.
 
-The Arduino generates a random sequence of colors and sounds. The player must repeat the sequence using the corresponding buttons. Each successful round increases the sequence length, making the game progressively more challenging.
-
+The Arduino generates a random sequence of colors and sounds. The player must repeat the sequence using the corresponding buttons.
 ## Features
 
 * Randomly generated Simon Says sequence
@@ -63,10 +62,3 @@ This project was my first Arduino project after completing CSE 123 and EE 215 at
 
 Add gameplay photos and videos here.
 
-## Future Improvements
-
-* LCD score display
-* Adjustable difficulty settings
-* High score tracking
-* Additional game modes
-* Improved startup menu
